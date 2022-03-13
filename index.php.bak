@@ -1,0 +1,18 @@
+
+
+<?php 
+ $p = 'Hey';
+?>
+
+<?php 
+ $name = 'Pavel';
+ $surname = '';
+ $city = 'NY';
+ $age = 34;
+?>
+
+
+<?php
+include 'main.php';
+?>
+
